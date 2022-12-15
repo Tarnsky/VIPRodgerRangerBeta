@@ -1,0 +1,5 @@
+pip install pillow
+pip install opencv-python
+https://github.com/UB-Mannheim/tesseract/wiki
+pip install pytesseract
+#https://www.youtube.com/watch?v=89m89vVh4wg&list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i&index=2

@@ -1,0 +1,18 @@
+2022_12_09-12_26-29-791
+Acoustic Modem 103
+From: DR1(8) to Laptop(0) (Ack 0)
+type:Ranger (16)
+
+LAT: 42S05.678
+LON: 146E10.935
+
+TR:00:09 Bat:57%
+Leg:0016 of 0017
+
+Sp:2.1kt Hd:333
+Dp: 4m Fx:00:04
+
+Mode: Run
+* No Faults *
+
+---------------------------------
