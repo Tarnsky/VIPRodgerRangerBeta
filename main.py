@@ -11,16 +11,7 @@ from PIL import Image
 from datetime import datetime
 import pytesseract
 
-'''
-        Grab a text from an image
-        grabbed clicking on the left top corner
-        and right down corner of the part of the screen
-        with the text.
-        It returns it in the console, replaces the text in Print.txt, 
-        appends to text in Log.txt,
-        saves image to Images folder,
 
-'''
 
 
 # Takes cords from clicks and takes an image
@@ -76,7 +67,7 @@ def readImage(im):
 
     img = Image.open(im_file)
     ocr_result = pytesseract.image_to_string(img)
-    ## print(ocr_result)
+    print(ocr_result)
     printOutPut(ocr_result, 0, 0)
 
 
